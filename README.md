@@ -32,6 +32,8 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+### Discord: <u>_LIMPIX31#9144_</u>
+
 ![](https://komarev.com/ghpvc/?username=LIMPIX31)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIMPIX31&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
