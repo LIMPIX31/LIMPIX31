@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=LIMPIX31)
 
 
-[Discord сообщество](https://discord.gg/75uYTryUu8)
+### [Discord сообщество](https://discord.gg/75uYTryUu8)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIMPIX31&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
