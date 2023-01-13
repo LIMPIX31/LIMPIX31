@@ -1,4 +1,4 @@
-![card](https://user-images.githubusercontent.com/81296950/201723942-2d8c3912-536d-4556-9419-a88ad0a0faa4.svg)
+![card](https://user-images.githubusercontent.com/81296950/212269668-b7269a30-a341-47bd-adce-fe40aae03f55.png)
 
 ![](https://komarev.com/ghpvc/?username=LIMPIX31)
 
