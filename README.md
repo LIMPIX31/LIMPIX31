@@ -1,1 +1,3 @@
 Doing hardware...
+
+Discord: @limpix31
